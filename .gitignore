@@ -1,2 +1,7 @@
 __pycache__/
 output/
+models/
+*.pt
+*.pth
+*.ckpt
+*.npz

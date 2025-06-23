@@ -1,0 +1,11 @@
+{
+    "data_base_dir": "./data",
+    "embedding_base_dir": "/data3/wyh/mri/breast/encode",
+    "csv_data_list": "/data3/wyh/mri/breast/encode/encoded_info.csv",
+    "model_dir": "./models",
+    "model_filename": "input_unet3d_data-all_steps1000size512ddpm_random_current_inputx_v1.pt",
+    "output_dir": "./predictions",
+    "output_prefix": "unet_3d",
+    "trained_autoencoder_path": "./models/autoencoder_epoch273.pt",
+    "existing_ckpt_filepath": null
+}

@@ -1,0 +1,11 @@
+{
+    "model_dir": "models/",
+    "output_dir": "time1_new/",
+    "tfevent_path": "outputs/tfevent",
+    "trained_autoencoder_path": "/data3/wyh/mri/maisi/models/autoencoder_epoch273.pt",
+    "trained_diffusion_path": "/data3/wyh/mri/maisi/models/diff_unet_ckpt_breast.pt",
+    "trained_controlnet_path": "/data3/wyh/mri/maisi/models/controlnet_breast_finetune_best.pt",
+    "exp_name": "controlnet_breast_finetune",
+    "data_base_dir": ["./datasets/C4KC-KiTS_subset"],
+    "json_data_list": ["./datasets/C4KC-KiTS_subset.json"]
+}
